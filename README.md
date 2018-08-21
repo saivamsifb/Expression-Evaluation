@@ -1,20 +1,20 @@
 # Expression-Evaluation
-A program that generates another program for evaluating given expression
-Input specifications(symbols to be used) :
-Notations :
-	TRIGONOMETRIC FUNCTIONS : 
-		S -> sin 
-		C -> cos 
-		T -> tan 
-	INVERSE TRIGONMETRIC FUNCTIONS : 
-		Si -> arcsin 
-		Ci ->	arccos 
-		Ti -> arctan 
-	HYPERBOLIC FUNCTIONS : 
-		Sh -> sinh 
-		Ch -> cosh 
-		Th -> 	tanh 
-	EXPONENTIAL FUNCTIONS : 
-		L -> log 
-		E -> raised to natural exponent 
-	'^' for power or index.
+A program that generates another program for evaluating given expression\
+Input specifications(symbols to be used) :<br/>
+Notations :<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;***TRIGONOMETRIC FUNCTIONS : <br/>***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S -> sin <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C -> cos <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T -> tan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;INVERSE TRIGONMETRIC FUNCTIONS : <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si -> arcsin <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ci ->	arccos <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ti -> arctan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;HYPERBOLIC FUNCTIONS : <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sh -> sinh <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ch -> cosh <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Th -> 	tanh <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;EXPONENTIAL FUNCTIONS : <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L -> log <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E -> raised to natural exponent <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'^' for power or index.<br/>
